@@ -1,7 +1,6 @@
 .flex-container {
   display: flex;
-
-  background-color: rgb(190, 190, 231);
+  /* background-color: rgb(190, 190, 231); */
 }
 
 /* Flex Container 1 */
